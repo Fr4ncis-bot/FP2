@@ -16,3 +16,7 @@
 **NEGRITAS**
 _texto italica_
 ***negritas italica***
+
+[Descripción de Imágen]
+![image](https://github.com/user-attachments/assets/5a483750-9e7e-434d-92fe-65e6db9f738a)
+)
