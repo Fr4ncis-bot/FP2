@@ -12,3 +12,7 @@
 1.1.1
 1.1.2
 1.1.3
+
+**NEGRITAS**
+_texto italica_
+***negritas italica***
